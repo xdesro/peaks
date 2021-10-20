@@ -1,0 +1,17 @@
+html {
+  background-color: $color-contrast;
+  color: $color-neutral;
+  font-family: $font-serif;
+}
+body {
+  padding-block: 12rem 0;
+  padding-inline: 1.25rem;
+  overflow-x: hidden;
+}
+a {
+  color: inherit;
+}
+
+.peaks-list {
+  margin-bottom: 5rem;
+}

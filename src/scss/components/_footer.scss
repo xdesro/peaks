@@ -1,0 +1,16 @@
+.footer {
+  line-height: 1.3;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  padding-block: 2rem 12rem;
+  padding-inline: 1.25rem;
+  color: $color-contrast;
+  background-color: $color-neutral;
+  p {
+    margin-bottom: 1rem;
+  }
+  span {
+    font-style: italic;
+    white-space: nowrap;
+  }
+}

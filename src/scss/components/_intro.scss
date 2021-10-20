@@ -1,0 +1,36 @@
+.intro {
+  margin-bottom: 7.5rem;
+  &__meta {
+    font-family: $font-sans;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 4rem;
+    text-transform: uppercase;
+    color: $color-neutral-mid;
+    dt,
+    dd {
+      display: inline-block;
+    }
+    &-value {
+      &--accent {
+        color: $color-neutral;
+      }
+    }
+  }
+  &__headline {
+    color: $color-neutral-mid;
+    em {
+      font-style: normal;
+      color: $color-neutral;
+    }
+    sub {
+      font-size: 0.5em;
+      color: $color-neutral-mid;
+    }
+    > :is(h1, p) {
+      font-size: 2rem;
+      line-height: 1.3;
+      display: inline;
+    }
+  }
+}

@@ -1,0 +1,582 @@
+[
+  {
+    "14er": "Mt. Elbert",
+    "Climbed": 0,
+    "RkRank": "1",
+    "Elev.Elevation": "14,433'",
+    "Range": "Sawatch Range",
+    "Routes": 4,
+    "Member\nAscents": "13,455",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Massive",
+    "Climbed": 0,
+    "RkRank": "2",
+    "Elev.Elevation": "14,421'",
+    "Range": "Sawatch Range",
+    "Routes": 3,
+    "Member\nAscents": "9,408",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Harvard",
+    "Climbed": 0,
+    "RkRank": "3",
+    "Elev.Elevation": "14,420'",
+    "Range": "Sawatch Range",
+    "Routes": 3,
+    "Member\nAscents": "7,393",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Blanca Peak",
+    "Climbed": 0,
+    "RkRank": "4",
+    "Elev.Elevation": "14,345'",
+    "Range": "Sangre de Cristo",
+    "Routes": 3,
+    "Member\nAscents": "4,893",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "La Plata Peak",
+    "Climbed": 0,
+    "RkRank": "5",
+    "Elev.Elevation": "14,336'",
+    "Range": "Sawatch Range",
+    "Routes": 4,
+    "Member\nAscents": "9,178",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Uncompahgre Peak",
+    "Climbed": 0,
+    "RkRank": "6",
+    "Elev.Elevation": "14,309'",
+    "Range": "San Juan Mountains",
+    "Routes": 1,
+    "Member\nAscents": "6,140",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Crestone Peak",
+    "Climbed": 0,
+    "RkRank": "7",
+    "Elev.Elevation": "14,294'",
+    "Range": "Sangre de Cristo",
+    "Routes": 2,
+    "Member\nAscents": "4,271",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Lincoln",
+    "Climbed": 0,
+    "RkRank": "8",
+    "Elev.Elevation": "14,286'",
+    "Range": "Mosquito Range",
+    "Routes": 4,
+    "Member\nAscents": "13,809",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Grays Peak",
+    "Climbed": 0,
+    "RkRank": "9",
+    "Elev.Elevation": "14,270'",
+    "Range": "Front Range",
+    "Routes": 5,
+    "Member\nAscents": "16,148",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Antero",
+    "Climbed": 0,
+    "RkRank": "10",
+    "Elev.Elevation": "14,269'",
+    "Range": "Sawatch Range",
+    "Routes": 1,
+    "Member\nAscents": "6,692",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Torreys Peak",
+    "Climbed": 0,
+    "RkRank": "11",
+    "Elev.Elevation": "14,267'",
+    "Range": "Front Range",
+    "Routes": 7,
+    "Member\nAscents": "15,172",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Castle Peak",
+    "Climbed": 0,
+    "RkRank": "12",
+    "Elev.Elevation": "14,265'",
+    "Range": "Elk Mountains",
+    "Routes": 4,
+    "Member\nAscents": "5,761",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Quandary Peak",
+    "Climbed": 0,
+    "RkRank": "13",
+    "Elev.Elevation": "14,265'",
+    "Range": "Tenmile Range",
+    "Routes": 5,
+    "Member\nAscents": "15,368",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Evans",
+    "Climbed": 0,
+    "RkRank": "14",
+    "Elev.Elevation": "14,264'",
+    "Range": "Front Range",
+    "Routes": 7,
+    "Member\nAscents": "12,014",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Longs Peak",
+    "Climbed": 0,
+    "RkRank": "15",
+    "Elev.Elevation": "14,255'",
+    "Range": "Front Range",
+    "Routes": 3,
+    "Member\nAscents": "9,672",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Wilson",
+    "Climbed": 0,
+    "RkRank": "16",
+    "Elev.Elevation": "14,246'",
+    "Range": "San Juan Mountains",
+    "Routes": 8,
+    "Member\nAscents": "3,101",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Cameron",
+    "Climbed": 0,
+    "RkRank": "*",
+    "Elev.Elevation": "14,238'",
+    "Range": "Mosquito Range",
+    "Routes": 2,
+    "Member\nAscents": "13,136",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Shavano",
+    "Climbed": 0,
+    "RkRank": "17",
+    "Elev.Elevation": "14,229'",
+    "Range": "Sawatch Range",
+    "Routes": 2,
+    "Member\nAscents": "9,113",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Princeton",
+    "Climbed": 0,
+    "RkRank": "18",
+    "Elev.Elevation": "14,197'",
+    "Range": "Sawatch Range",
+    "Routes": 1,
+    "Member\nAscents": "8,723",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Belford",
+    "Climbed": 0,
+    "RkRank": "19",
+    "Elev.Elevation": "14,197'",
+    "Range": "Sawatch Range",
+    "Routes": 3,
+    "Member\nAscents": "9,581",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Crestone Needle",
+    "Climbed": 0,
+    "RkRank": "20",
+    "Elev.Elevation": "14,197'",
+    "Range": "Sangre de Cristo",
+    "Routes": 3,
+    "Member\nAscents": "4,518",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Yale",
+    "Climbed": 0,
+    "RkRank": "21",
+    "Elev.Elevation": "14,196'",
+    "Range": "Sawatch Range",
+    "Routes": 2,
+    "Member\nAscents": "9,361",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Bross",
+    "Climbed": 0,
+    "RkRank": "22",
+    "Elev.Elevation": "14,172'",
+    "Range": "Mosquito Range",
+    "Routes": 7,
+    "Member\nAscents": "13,325",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Kit Carson Peak",
+    "Climbed": 0,
+    "RkRank": "23",
+    "Elev.Elevation": "14,165'",
+    "Range": "Sangre de Cristo",
+    "Routes": 5,
+    "Member\nAscents": "4,626",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "El Diente Peak",
+    "Climbed": 0,
+    "RkRank": "*",
+    "Elev.Elevation": "14,159'",
+    "Range": "San Juan Mountains",
+    "Routes": 8,
+    "Member\nAscents": "3,003",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Maroon Peak",
+    "Climbed": 0,
+    "RkRank": "24",
+    "Elev.Elevation": "14,156'",
+    "Range": "Elk Mountains",
+    "Routes": 4,
+    "Member\nAscents": "3,419",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Tabeguache Peak",
+    "Climbed": 0,
+    "RkRank": "25",
+    "Elev.Elevation": "14,155'",
+    "Range": "Sawatch Range",
+    "Routes": 2,
+    "Member\nAscents": "7,390",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Oxford",
+    "Climbed": 0,
+    "RkRank": "26",
+    "Elev.Elevation": "14,153'",
+    "Range": "Sawatch Range",
+    "Routes": 1,
+    "Member\nAscents": "8,320",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Sneffels",
+    "Climbed": 0,
+    "RkRank": "27",
+    "Elev.Elevation": "14,150'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "6,282",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Democrat",
+    "Climbed": 0,
+    "RkRank": "28",
+    "Elev.Elevation": "14,148'",
+    "Range": "Mosquito Range",
+    "Routes": 4,
+    "Member\nAscents": "14,567",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Capitol Peak",
+    "Climbed": 0,
+    "RkRank": "29",
+    "Elev.Elevation": "14,130'",
+    "Range": "Elk Mountains",
+    "Routes": 1,
+    "Member\nAscents": "3,454",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Pikes Peak",
+    "Climbed": 0,
+    "RkRank": "30",
+    "Elev.Elevation": "14,110'",
+    "Range": "Front Range",
+    "Routes": 2,
+    "Member\nAscents": "9,775",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Snowmass Mountain",
+    "Climbed": 0,
+    "RkRank": "31",
+    "Elev.Elevation": "14,092'",
+    "Range": "Elk Mountains",
+    "Routes": 2,
+    "Member\nAscents": "3,373",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Windom Peak",
+    "Climbed": 0,
+    "RkRank": "32",
+    "Elev.Elevation": "14,087'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "3,710",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Eolus",
+    "Climbed": 0,
+    "RkRank": "33",
+    "Elev.Elevation": "14,083'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "3,343",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Challenger Point",
+    "Climbed": 0,
+    "RkRank": "34",
+    "Elev.Elevation": "14,081'",
+    "Range": "Sangre de Cristo",
+    "Routes": 4,
+    "Member\nAscents": "4,942",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Columbia",
+    "Climbed": 0,
+    "RkRank": "35",
+    "Elev.Elevation": "14,073'",
+    "Range": "Sawatch Range",
+    "Routes": 4,
+    "Member\nAscents": "6,501",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Missouri Mountain",
+    "Climbed": 0,
+    "RkRank": "36",
+    "Elev.Elevation": "14,067'",
+    "Range": "Sawatch Range",
+    "Routes": 3,
+    "Member\nAscents": "7,567",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Humboldt Peak",
+    "Climbed": 0,
+    "RkRank": "37",
+    "Elev.Elevation": "14,064'",
+    "Range": "Sangre de Cristo",
+    "Routes": 3,
+    "Member\nAscents": "6,365",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Bierstadt",
+    "Climbed": 0,
+    "RkRank": "38",
+    "Elev.Elevation": "14,060'",
+    "Range": "Front Range",
+    "Routes": 3,
+    "Member\nAscents": "15,700",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Conundrum Peak",
+    "Climbed": 0,
+    "RkRank": "*",
+    "Elev.Elevation": "14,060'",
+    "Range": "Elk Mountains",
+    "Routes": 3,
+    "Member\nAscents": "4,409",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Sunlight Peak",
+    "Climbed": 0,
+    "RkRank": "39",
+    "Elev.Elevation": "14,059'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "3,612",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Handies Peak",
+    "Climbed": 0,
+    "RkRank": "40",
+    "Elev.Elevation": "14,048'",
+    "Range": "San Juan Mountains",
+    "Routes": 3,
+    "Member\nAscents": "6,813",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Culebra Peak",
+    "Climbed": 0,
+    "RkRank": "41",
+    "Elev.Elevation": "14,047'",
+    "Range": "Sangre de Cristo",
+    "Routes": 1,
+    "Member\nAscents": "2,955",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Lindsey",
+    "Climbed": 0,
+    "RkRank": "42",
+    "Elev.Elevation": "14,042'",
+    "Range": "Sangre de Cristo",
+    "Routes": 4,
+    "Member\nAscents": "4,958",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Ellingwood Point",
+    "Climbed": 0,
+    "RkRank": "43",
+    "Elev.Elevation": "14,042'",
+    "Range": "Sangre de Cristo",
+    "Routes": 5,
+    "Member\nAscents": "4,182",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "North Eolus",
+    "Climbed": 0,
+    "RkRank": "*",
+    "Elev.Elevation": "14,039'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "2,865",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Little Bear Peak",
+    "Climbed": 0,
+    "RkRank": "44",
+    "Elev.Elevation": "14,037'",
+    "Range": "Sangre de Cristo",
+    "Routes": 2,
+    "Member\nAscents": "3,175",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. Sherman",
+    "Climbed": 0,
+    "RkRank": "45",
+    "Elev.Elevation": "14,036'",
+    "Range": "Mosquito Range",
+    "Routes": 3,
+    "Member\nAscents": "12,809",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Redcloud Peak",
+    "Climbed": 0,
+    "RkRank": "46",
+    "Elev.Elevation": "14,034'",
+    "Range": "San Juan Mountains",
+    "Routes": 1,
+    "Member\nAscents": "6,532",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Pyramid Peak",
+    "Climbed": 0,
+    "RkRank": "47",
+    "Elev.Elevation": "14,018'",
+    "Range": "Elk Mountains",
+    "Routes": 2,
+    "Member\nAscents": "3,559",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Wilson Peak",
+    "Climbed": 0,
+    "RkRank": "48",
+    "Elev.Elevation": "14,017'",
+    "Range": "San Juan Mountains",
+    "Routes": 5,
+    "Member\nAscents": "3,372",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Wetterhorn Peak",
+    "Climbed": 0,
+    "RkRank": "49",
+    "Elev.Elevation": "14,015'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "5,317",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "San Luis Peak",
+    "Climbed": 0,
+    "RkRank": "50",
+    "Elev.Elevation": "14,014'",
+    "Range": "San Juan Mountains",
+    "Routes": 2,
+    "Member\nAscents": "4,873",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "North Maroon Peak",
+    "Climbed": 0,
+    "RkRank": "*",
+    "Elev.Elevation": "14,014'",
+    "Range": "Elk Mountains",
+    "Routes": 2,
+    "Member\nAscents": "3,096",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Mt. of the Holy Cross",
+    "Climbed": 0,
+    "RkRank": "51",
+    "Elev.Elevation": "14,005'",
+    "Range": "Sawatch Range",
+    "Routes": 3,
+    "Member\nAscents": "7,610",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Huron Peak",
+    "Climbed": 0,
+    "RkRank": "52",
+    "Elev.Elevation": "14,003'",
+    "Range": "Sawatch Range",
+    "Routes": 3,
+    "Member\nAscents": "9,622",
+    "More": "Map     Weather"
+  },
+  {
+    "14er": "Sunshine Peak",
+    "Climbed": 0,
+    "RkRank": "53",
+    "Elev.Elevation": "14,001'",
+    "Range": "San Juan Mountains",
+    "Routes": 3,
+    "Member\nAscents": "6,155",
+    "More": "Map     Weather"
+  }
+ ]

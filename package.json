@@ -1,0 +1,21 @@
+{
+  "name": "14ers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ELEVENTY_EXPERIMENTAL=true concurrently 'sass --no-source-map --watch ./src/scss:./dist/css' 'npx @11ty/eleventy --serve'",
+    "build": "sass --no-source-map --style compressed ./src/scss:./dist/css && ELEVENTY_EXPERIMENTAL=true npx @11ty/eleventy",
+    "transform": "node initial/transformer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Henry Desroches <yo@henry.codes> (https://henry.codes/)",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-vue": "^0.5.0",
+    "concurrently": "^6.3.0",
+    "sass": "^1.43.2"
+  }
+}

@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Mt. Elbert",
+    "climbed": false,
+    "elevation": "14433",
+    "range": "Sawatch Range",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Massive",
+    "climbed": false,
+    "elevation": "14421",
+    "range": "Sawatch Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Harvard",
+    "climbed": false,
+    "elevation": "14420",
+    "range": "Sawatch Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Blanca Peak",
+    "climbed": false,
+    "elevation": "14345",
+    "range": "Sangre de Cristo",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "La Plata Peak",
+    "climbed": false,
+    "elevation": "14336",
+    "range": "Sawatch Range",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Uncompahgre Peak",
+    "climbed": false,
+    "elevation": "14309",
+    "range": "San Juan Mountains",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Crestone Peak",
+    "climbed": false,
+    "elevation": "14294",
+    "range": "Sangre de Cristo",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Lincoln",
+    "climbed": false,
+    "elevation": "14286",
+    "range": "Mosquito Range",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Grays Peak",
+    "climbed": true,
+    "elevation": "14270",
+    "range": "Front Range",
+    "routes": 5,
+    "summitDate": "2016-08-13"
+  },
+  {
+    "name": "Mt. Antero",
+    "climbed": false,
+    "elevation": "14269",
+    "range": "Sawatch Range",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Torreys Peak",
+    "climbed": false,
+    "elevation": "14267",
+    "range": "Front Range",
+    "routes": 7,
+    "summitDate": null
+  },
+  {
+    "name": "Castle Peak",
+    "climbed": false,
+    "elevation": "14265",
+    "range": "Elk Mountains",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Quandary Peak",
+    "climbed": true,
+    "elevation": "14265",
+    "range": "Tenmile Range",
+    "routes": 5,
+    "summitDate": "2016-06-04"
+  },
+  {
+    "name": "Mt. Evans",
+    "climbed": true,
+    "elevation": "14264",
+    "range": "Front Range",
+    "routes": 7,
+    "summitDate": "2017-08-14"
+  },
+  {
+    "name": "Longs Peak",
+    "climbed": false,
+    "elevation": "14255",
+    "range": "Front Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Wilson",
+    "climbed": false,
+    "elevation": "14246",
+    "range": "San Juan Mountains",
+    "routes": 8,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Cameron",
+    "climbed": false,
+    "elevation": "14238",
+    "range": "Mosquito Range",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Shavano",
+    "climbed": false,
+    "elevation": "14229",
+    "range": "Sawatch Range",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Princeton",
+    "climbed": false,
+    "elevation": "14197",
+    "range": "Sawatch Range",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Belford",
+    "climbed": false,
+    "elevation": "14197",
+    "range": "Sawatch Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Crestone Needle",
+    "climbed": false,
+    "elevation": "14197",
+    "range": "Sangre de Cristo",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Yale",
+    "climbed": false,
+    "elevation": "14196",
+    "range": "Sawatch Range",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Bross",
+    "climbed": false,
+    "elevation": "14172",
+    "range": "Mosquito Range",
+    "routes": 7,
+    "summitDate": null
+  },
+  {
+    "name": "Kit Carson Peak",
+    "climbed": false,
+    "elevation": "14165",
+    "range": "Sangre de Cristo",
+    "routes": 5,
+    "summitDate": null
+  },
+  {
+    "name": "El Diente Peak",
+    "climbed": false,
+    "elevation": "14159",
+    "range": "San Juan Mountains",
+    "routes": 8,
+    "summitDate": null
+  },
+  {
+    "name": "Maroon Peak",
+    "climbed": false,
+    "elevation": "14156",
+    "range": "Elk Mountains",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Tabeguache Peak",
+    "climbed": false,
+    "elevation": "14155",
+    "range": "Sawatch Range",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Oxford",
+    "climbed": false,
+    "elevation": "14153",
+    "range": "Sawatch Range",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Sneffels",
+    "climbed": false,
+    "elevation": "14150",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Democrat",
+    "climbed": false,
+    "elevation": "14148",
+    "range": "Mosquito Range",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Capitol Peak",
+    "climbed": false,
+    "elevation": "14130",
+    "range": "Elk Mountains",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Pikes Peak",
+    "climbed": false,
+    "elevation": "14110",
+    "range": "Front Range",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Snowmass Mountain",
+    "climbed": false,
+    "elevation": "14092",
+    "range": "Elk Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Windom Peak",
+    "climbed": false,
+    "elevation": "14087",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Eolus",
+    "climbed": false,
+    "elevation": "14083",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Challenger Point",
+    "climbed": false,
+    "elevation": "14081",
+    "range": "Sangre de Cristo",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Columbia",
+    "climbed": false,
+    "elevation": "14073",
+    "range": "Sawatch Range",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Missouri Mountain",
+    "climbed": false,
+    "elevation": "14067",
+    "range": "Sawatch Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Humboldt Peak",
+    "climbed": false,
+    "elevation": "14064",
+    "range": "Sangre de Cristo",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Bierstadt",
+    "climbed": true,
+    "elevation": "14060",
+    "range": "Front Range",
+    "routes": 3,
+    "summitDate": "2016-06-18"
+  },
+  {
+    "name": "Conundrum Peak",
+    "climbed": false,
+    "elevation": "14060",
+    "range": "Elk Mountains",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Sunlight Peak",
+    "climbed": false,
+    "elevation": "14059",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Handies Peak",
+    "climbed": false,
+    "elevation": "14048",
+    "range": "San Juan Mountains",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Culebra Peak",
+    "climbed": false,
+    "elevation": "14047",
+    "range": "Sangre de Cristo",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Lindsey",
+    "climbed": false,
+    "elevation": "14042",
+    "range": "Sangre de Cristo",
+    "routes": 4,
+    "summitDate": null
+  },
+  {
+    "name": "Ellingwood Point",
+    "climbed": false,
+    "elevation": "14042",
+    "range": "Sangre de Cristo",
+    "routes": 5,
+    "summitDate": null
+  },
+  {
+    "name": "North Eolus",
+    "climbed": false,
+    "elevation": "14039",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Little Bear Peak",
+    "climbed": false,
+    "elevation": "14037",
+    "range": "Sangre de Cristo",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. Sherman",
+    "climbed": false,
+    "elevation": "14036",
+    "range": "Mosquito Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Redcloud Peak",
+    "climbed": false,
+    "elevation": "14034",
+    "range": "San Juan Mountains",
+    "routes": 1,
+    "summitDate": null
+  },
+  {
+    "name": "Pyramid Peak",
+    "climbed": false,
+    "elevation": "14018",
+    "range": "Elk Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Wilson Peak",
+    "climbed": false,
+    "elevation": "14017",
+    "range": "San Juan Mountains",
+    "routes": 5,
+    "summitDate": null
+  },
+  {
+    "name": "Wetterhorn Peak",
+    "climbed": false,
+    "elevation": "14015",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "San Luis Peak",
+    "climbed": false,
+    "elevation": "14014",
+    "range": "San Juan Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "North Maroon Peak",
+    "climbed": false,
+    "elevation": "14014",
+    "range": "Elk Mountains",
+    "routes": 2,
+    "summitDate": null
+  },
+  {
+    "name": "Mt. of the Holy Cross",
+    "climbed": false,
+    "elevation": "14005",
+    "range": "Sawatch Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Huron Peak",
+    "climbed": false,
+    "elevation": "14003",
+    "range": "Sawatch Range",
+    "routes": 3,
+    "summitDate": null
+  },
+  {
+    "name": "Sunshine Peak",
+    "climbed": false,
+    "elevation": "14001",
+    "range": "San Juan Mountains",
+    "routes": 3,
+    "summitDate": null
+  }
+]
