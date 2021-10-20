@@ -30,6 +30,8 @@
   }
   &__headline {
     color: $color-neutral-mid;
+    max-width: 62.5rem;
+
     em {
       font-style: normal;
       color: $color-neutral;
