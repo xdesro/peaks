@@ -1,12 +1,24 @@
 .footer {
-  line-height: 1.3;
+  line-height: 1.5;
   width: 100vw;
   margin-left: calc(50% - 50vw);
   padding-block: 2rem 12rem;
   padding-inline: 1.25rem;
   color: $color-contrast;
   background-color: $color-neutral;
+
+  @include screen(lg) {
+    grid-column: 1 / span 10;
+  }
+  @include screen(xl) {
+    grid-column-end: span 12;
+  }
+  &__inner {
+    max-width: 75rem;
+    margin: 0 auto;
+  }
   p {
+    max-width: 55ch;
     margin-bottom: 1rem;
   }
   span {

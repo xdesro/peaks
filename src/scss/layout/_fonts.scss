@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Self Modern';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/self-modern_regular_web.woff2') format('woff2'),
+    url('/fonts/self-modern_regular_web.woff') format('woff');
+}
+@font-face {
+  font-family: 'Self Modern';
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+  src: url('/fonts/self-modern_italic_web.woff2') format('woff2'),
+    url('/fonts/self-modern_italic_web.woff') format('woff');
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/neue-haas-grotesk.woff2') format('woff2'), url('/fonts/neue-haas-grotesk.woff') format('woff');
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/neue-haas-grotesk-medium.woff2') format('woff2'),
+    url('/fonts/neue-haas-grotesk-medium.woff') format('woff');
+}

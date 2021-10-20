@@ -3,6 +3,19 @@
   margin-bottom: 1rem;
   padding: 1.5rem 0 0;
 
+  @include screen(sm) {
+    display: grid;
+    grid-column-gap: 2rem;
+    // grid-template-columns: repeat(auto-fill, minmax(0, 1fr));
+    grid-template-columns: 1fr 1fr;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+  @include screen(xl) {
+    grid-column-gap: 0;
+    grid-template-columns: repeat(12, 1fr);
+    padding: 1.25rem 1rem;
+  }
   &--summited {
     margin-right: -1rem;
     margin-left: -1rem;
@@ -14,11 +27,25 @@
     background-repeat: no-repeat;
     background-position: 80% 50%;
     background-size: 50%;
+
+    @include screen(sm) {
+      margin-right: 0;
+      margin-left: 0;
+    }
+    @include screen(xl) {
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+      background-position: 12.5rem 50%;
+      background-size: 25rem;
+    }
+    li:nth-child(even) & {
+      background-image: url('/img/mountains-2.svg');
+    }
   }
   &__summited-tag {
     font-family: $font-sans;
     font-size: 0.75rem;
-    font-weight: 600;
+    font-weight: 500;
     position: absolute;
     // width: 7rem;
     // height: 7rem;
@@ -28,28 +55,78 @@
     top: 1rem;
     left: 1rem;
     text-transform: uppercase;
+
+    @include screen(xl) {
+      $ring-size: 5rem;
+
+      top: calc(50% - #{$ring-size / 2});
+      left: 1rem;
+      width: $ring-size;
+      height: $ring-size;
+      opacity: 0.8;
+    }
     svg {
       display: none;
+
+      @include screen(xl) {
+        display: block;
+      }
+    }
+    span {
+      @include screen(xl) {
+        display: none;
+      }
     }
   }
   &__label {
     font-size: 0.75rem;
+    line-height: 2;
     opacity: 0.8;
   }
   &__value {
     font-family: $font-sans;
-    // font-size: 1.5rem;
     font-weight: 400;
 
     font-variant-numeric: tabular-nums;
+    @include screen(sm) {
+      margin-top: 1rem;
+    }
+    @include screen(lg) {
+      font-size: 1.5rem;
+    }
+  }
+  &__title {
+    @include screen(xl) {
+      grid-column: 2 / span 5;
+      padding-right: 2rem;
+    }
   }
   &__peak {
     font-size: 2rem;
     margin-bottom: 1rem;
+
+    @include screen(lg) {
+      font-size: 3rem;
+      margin-bottom: 0;
+    }
   }
   &__meta {
     display: grid;
     grid-column-gap: 1rem;
-    grid-template-columns: 5rem 1fr 6rem;
+    grid-template-columns: 5rem minmax(min-content, 1fr) 6rem;
+    // @include screen(sm) {
+    // grid-template-columns: repeat(3, max-content);
+    // }
+
+    @include screen(lg) {
+      grid-template-columns: 1fr 2fr 1fr;
+      justify-content: end;
+      // grid-column-gap: 2rem;
+    }
+    @include screen(xl) {
+      grid-column: 7 / span 6;
+      grid-column-gap: 0;
+      grid-template-columns: repeat(3, 1fr);
+    }
   }
 }

@@ -1,5 +1,9 @@
 <template>
   <div class="intro">
+    <a href="/" class="intro__link">
+      <span class="visually-hidden">Go back home</span>
+      🏔
+    </a>
     <dl class="intro__meta">
       <div class="intro__meta-value">
         <dt class="visually-hidden">Coordinates</dt>

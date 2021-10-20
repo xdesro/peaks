@@ -1,7 +1,7 @@
 const eleventyVue = require('@11ty/eleventy-plugin-vue');
 
 module.exports = function(eleventyConfig) {
-  // eleventyConfig.addPassthroughCopy('src/fonts');
+  eleventyConfig.addPassthroughCopy('src/fonts');
   // eleventyConfig.addPassthroughCopy('src/functions');
   eleventyConfig.addPassthroughCopy('src/img');
   // eleventyConfig.addPassthroughCopy('src/meta');

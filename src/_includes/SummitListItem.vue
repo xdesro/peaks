@@ -1,10 +1,6 @@
 <template>
   <article :class="`summit-list-item${mountain.climbed ? ' summit-list-item--summited' : ''}`">
-    <!-- <label :for="mountain.name">
-      Climbed
-      <input type="checkbox" :name="mountain.name" :id="mountain.name" :checked="mountain.climbed" :disabled="true" />
-    </label> -->
-    <div>
+    <div class="summit-list-item__title">
       <span class="summit-list-item__label">Peak Name</span>
       <h1 class="summit-list-item__peak">{{ mountain.name }}</h1>
     </div>

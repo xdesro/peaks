@@ -1,17 +1,51 @@
 html {
-  background-color: $color-contrast;
-  color: $color-neutral;
   font-family: $font-serif;
+  color: $color-neutral;
+  background-color: $color-contrast;
 }
 body {
-  padding-block: 12rem 0;
-  padding-inline: 1.25rem;
   overflow-x: hidden;
+  padding-block: 8rem 0;
+  padding-inline: 1.25rem;
+  &:before {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    content: '';
+    user-select: none;
+    pointer-events: none;
+    background-image: url('/img/noise.png');
+    background-size: cover;
+  }
 }
 a {
   color: inherit;
 }
+main {
+  // @include screen(lg) {
+  // }
+  max-width: 75rem;
+  margin: 0 auto;
+
+  @include screen(lg) {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+  }
+  @include screen(xl) {
+    grid-template-columns: repeat(12, 1fr);
+  }
+}
 
 .peaks-list {
   margin-bottom: 5rem;
+
+  @include screen(lg) {
+    grid-column: 1 / span 10;
+  }
+  @include screen(xl) {
+    grid-column: span 12;
+  }
 }
