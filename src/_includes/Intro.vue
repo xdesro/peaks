@@ -19,7 +19,7 @@
         There are <em>{{ peakCount }} peaks</em> in Colorado exceeding 14,000' in elevation.
       </h1>
       <p>
-        I intend to reach the top of every one of them before my time on this earth is through.
+        I intend to reach the top of every one of them before my time on this wretched earth is through.
         <em
           >Here is a log of which I have summited<sub>({{ summitedPeakCount }})</sub>, and which yet remain to be
           conquered.</em
