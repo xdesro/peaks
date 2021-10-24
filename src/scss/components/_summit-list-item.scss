@@ -4,7 +4,12 @@
   position: relative;
   margin-bottom: 1rem;
   padding: 1.5rem 0 0;
-
+  scroll-margin-top: 1rem;
+  &:target,
+  &:focus-within {
+    outline: 2px solid $color-neutral;
+    outline-offset: 2px;
+  }
   @include screen(sm) {
     display: grid;
     grid-column-gap: 2rem;
@@ -113,6 +118,9 @@
       font-size: 3rem;
       margin-bottom: 0;
     }
+  }
+  &__link {
+    text-decoration: none;
   }
   &__meta {
     display: grid;

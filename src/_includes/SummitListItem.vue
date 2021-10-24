@@ -1,8 +1,10 @@
 <template>
-  <article :class="`summit-list-item${mountain.climbed ? ' summit-list-item--summited' : ''}`">
+  <article :class="`summit-list-item${mountain.climbed ? ' summit-list-item--summited' : ''}`" :id="id">
     <div class="summit-list-item__title">
       <span class="summit-list-item__label">Peak Name</span>
-      <h1 class="summit-list-item__peak">{{ mountain.name }}</h1>
+      <h1 class="summit-list-item__peak">
+        <a class="summit-list-item__link" :href="`#${id}`"> {{ mountain.name }}</a>
+      </h1>
     </div>
     <SummitedTag v-if="mountain.climbed" class="summit-list-item__summited-tag" />
     <dl class="summit-list-item__meta">
@@ -32,7 +34,29 @@ import SummitedTag from './SummitedTag.vue';
 export default {
   props: ['mountain'],
   components: { SummitedTag },
+  computed: {
+    id() {
+      return this.mountain.name
+        .normalize()
+        .toLowerCase()
+        .replace(/(\w)\'/g, '$1')
+        .replace(/[^a-z0-9_\-]+/g, '-')
+        .replace(/\-\-+/g, '-')
+        .replace(/^-+/, '')
+        .replace(/-+$/, '');
+    },
+  },
   filters: {
+    formatId(peakName) {
+      return peakName
+        .normalize()
+        .toLowerCase()
+        .replace(/(\w)\'/g, '$1')
+        .replace(/[^a-z0-9_\-]+/g, '-')
+        .replace(/\-\-+/g, '-')
+        .replace(/^-+/, '')
+        .replace(/-+$/, '');
+    },
     formatElevation(elevation) {
       return `${elevation.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}′`;
     },

@@ -25,7 +25,10 @@ export default {
       eleventyComputed: {
         peakCount: (data) => data.mountains.length,
         summitedPeakCount: (data) => data.mountains.filter((mtn) => mtn.climbed).length,
-        sortedMountains: (data) => data.mountains.sort((a, b) => (a.climbed < b.climbed ? 1 : -1)),
+        sortedMountains: (data) =>
+          data.mountains
+            .sort((a, b) => (a.climbed > b.climbed ? 1 : -1))
+            .sort((a, b) => (a.summitDate < b.summitDate ? 1 : -1)),
       },
     };
   },
