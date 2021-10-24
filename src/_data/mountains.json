@@ -233,11 +233,11 @@
   },
   {
     "name": "Mt. Democrat",
-    "climbed": false,
+    "climbed": true,
     "elevation": "14148",
     "range": "Mosquito Range",
     "routes": 4,
-    "summitDate": null
+    "summitDate": "2021-10-24"
   },
   {
     "name": "Capitol Peak",
