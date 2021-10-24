@@ -8,7 +8,9 @@
     <dl class="summit-list-item__meta">
       <div>
         <dt class="summit-list-item__label">Elevation</dt>
-        <dd class="summit-list-item__value">{{ mountain.elevation | formatElevation }}</dd>
+        <dd class="summit-list-item__value summit-list-item__value--tnums">
+          {{ mountain.elevation | formatElevation }}
+        </dd>
       </div>
       <div>
         <dt class="summit-list-item__label">Range</dt>
@@ -17,7 +19,7 @@
       <div>
         <dt class="summit-list-item__label">Summited</dt>
         <dd class="summit-list-item__value">
-          <time>{{ mountain.summitDate || 'N/A' }}</time>
+          <time>{{ mountain.summitDate || 'N/A' | formatDate }}</time>
         </dd>
       </div>
     </dl>
@@ -32,7 +34,11 @@ export default {
   components: { SummitedTag },
   filters: {
     formatElevation(elevation) {
-      return `${elevation.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}'`;
+      return `${elevation.replace(/\B(?=(\d{3})+(?!\d))/g, ',')}′`;
+    },
+    formatDate(date) {
+      if (date === 'N/A') return date;
+      return new Date(date).toLocaleDateString('en-US', { month: 'short', year: 'numeric', day: 'numeric' });
     },
   },
 };
