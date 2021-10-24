@@ -2,6 +2,10 @@ html {
   font-family: $font-serif;
   color: $color-neutral;
   background-color: $color-contrast;
+  scroll-behavior: smooth;
+  @media (prefers-reduced-motion) {
+    scroll-behavior: initial;
+  }
 }
 body {
   overflow-x: hidden;
