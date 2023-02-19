@@ -13,6 +13,7 @@
   @include screen(sm) {
     display: grid;
     grid-column-gap: 2rem;
+    border-radius: 1rem;
     // grid-template-columns: repeat(auto-fill, minmax(0, 1fr));
     grid-template-columns: 1fr 1fr;
     padding-right: 1rem;
@@ -28,7 +29,6 @@
     margin-left: -1rem;
     padding: 2.5rem 1rem 1.5rem;
     color: $color-contrast;
-    border-radius: 1rem;
     background-color: $color-neutral;
     background-image: url('/img/mountains.svg');
     background-repeat: no-repeat;
@@ -54,11 +54,6 @@
     font-size: 0.75rem;
     font-weight: 500;
     position: absolute;
-    // width: 7rem;
-    // height: 7rem;
-    // top: -2rem;
-    // right: -2rem;
-    // opacity: 0.8;
     top: 1rem;
     left: 1rem;
     text-transform: uppercase;
