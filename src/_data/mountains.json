@@ -249,11 +249,11 @@
   },
   {
     "name": "Pikes Peak",
-    "climbed": false,
+    "climbed": true,
     "elevation": "14110",
     "range": "Front Range",
     "routes": 2,
-    "summitDate": null
+    "summitDate": "2024-07-27"
   },
   {
     "name": "Snowmass Mountain",

@@ -11,7 +11,7 @@
       </div>
       <div class="intro__meta-value intro__meta-value--accent">
         <dt>Updated</dt>
-        <dd><time datetime="2021-10-20">20 October 2021</time></dd>
+        <dd><time datetime="2024-07-27">27 July 2024</time></dd>
       </div>
     </dl>
     <div class="intro__headline">
